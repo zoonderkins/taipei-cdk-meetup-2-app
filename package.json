@@ -1,0 +1,20 @@
+{
+  "name": "cdkmeetup_sample",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "@aws-cdk/assert": "^1.57.0",
+    "@types/node": "^10.17.5",
+    "aws-cdk": "^1.57.0",
+    "ts-node": "^8.1.0",
+    "typescript": "~3.7.2"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-lambda": "^1.57.0",
+    "@aws-cdk/core": "^1.57.0",
+    "source-map-support": "^0.5.16"
+  }
+}
